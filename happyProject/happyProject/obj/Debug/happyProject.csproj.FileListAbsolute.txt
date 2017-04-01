@@ -1,0 +1,2 @@
+c:\users\masa\documents\visual studio 2015\Projects\happyProject\happyProject\bin\Debug\happyProject.exe.config
+C:\ownerprojects\OceanRepo\happyProject\happyProject\bin\Debug\happyProject.exe.config
